@@ -1,2 +1,2 @@
 # UDF
-An Unsupervised Defogging Method
+An Unsupervised Defogging Network with Detail-Preserving Decomposition for Real-World Images
