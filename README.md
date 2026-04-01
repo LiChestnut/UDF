@@ -3,6 +3,7 @@ An Unsupervised Defogging Network with Detail-Preserving Decomposition for Real-
 
 # Preparation
 We test the code on PyTorch 2.3.0+cu121
+
 Python == 3.8
 
 
